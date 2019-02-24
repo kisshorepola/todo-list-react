@@ -1,1 +1,3 @@
-am writing here some thing
+git useful commands
+git init for intialising git 
+git status to check status
